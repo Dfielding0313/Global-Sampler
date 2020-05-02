@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="Sort By:">
+    <menu>
+        <item
+            android:id="@+id/nameAtoZ"
+            android:title="Name A-Z">
+        </item>
+        <item
+            android:id="@+id/nameZtoA"
+            android:title="Name Z-A">
+        </item>
+        <item
+            android:id="@+id/locationup"
+            android:title="Location Ascending">
+        </item>
+        <item
+            android:id="@+id/locationdown"
+            android:title="Location Descending">
+        </item>
+    </menu>
+    </item>
+</menu>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Global Sampler</string>
+    <string name="play">Play</string>
+    <string name="pause"> Pause</string>
+    <string name="choices">Choose Sample</string>
+    <string name="effects">FX Controls</string>
+    <string name="record">RECORD</string>
+    <string name="stop">STOP</string>
+    <string-array name="options">
+        <item>Yes</item>
+        <item>No</item>
+    </string-array>
+</resources>
